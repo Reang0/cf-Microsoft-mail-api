@@ -1,5 +1,5 @@
 // KV Namespace 绑定
-const API_BASE_URL = 'https://my-email-eta.vercel.app';
+const API_BASE_URL = 'https://my-email-eta.vercel.app/';
 const allowedMailboxes = ['INBOX', 'Junk'];
 
 // Logo URL
